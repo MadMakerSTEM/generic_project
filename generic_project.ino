@@ -34,9 +34,10 @@
  * Representing the integer values of the slider, temperature sensor and 
  * joystick respectively.
  * 
- * The device can be used by manipulating any of the input sensors, and 
- * then running the attached Processing program to see the values displayed
- * on the screen.
+ * To use this device, load this program onto and Arduino Esplora, then
+ * run the accompanying Processing program in order to see the results. The
+ * user can then maniupulate the input sensors in order to affect the display
+ * printed in Processing.
  * 
  * Given more time, this device could be improved by adding the Esplora led,
  * in order to fulfil the minimum requirements specified in the Challenge
